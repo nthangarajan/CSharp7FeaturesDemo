@@ -1,0 +1,6 @@
+C:\Thanga\CSharp7FeaturesDemo\LocalFunctionsDemo\obj\Debug\LocalFunctionsDemo.csproj.CoreCompileInputs.cache
+C:\Thanga\CSharp7FeaturesDemo\LocalFunctionsDemo\bin\Debug\LocalFunctionsDemo.exe.config
+C:\Thanga\CSharp7FeaturesDemo\LocalFunctionsDemo\bin\Debug\LocalFunctionsDemo.exe
+C:\Thanga\CSharp7FeaturesDemo\LocalFunctionsDemo\bin\Debug\LocalFunctionsDemo.pdb
+C:\Thanga\CSharp7FeaturesDemo\LocalFunctionsDemo\obj\Debug\LocalFunctionsDemo.exe
+C:\Thanga\CSharp7FeaturesDemo\LocalFunctionsDemo\obj\Debug\LocalFunctionsDemo.pdb

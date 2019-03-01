@@ -1,0 +1,6 @@
+C:\Thanga\CSharp7FeaturesDemo\DeconstructionDemo\bin\Debug\DeconstructionDemo.exe.config
+C:\Thanga\CSharp7FeaturesDemo\DeconstructionDemo\bin\Debug\DeconstructionDemo.exe
+C:\Thanga\CSharp7FeaturesDemo\DeconstructionDemo\bin\Debug\DeconstructionDemo.pdb
+C:\Thanga\CSharp7FeaturesDemo\DeconstructionDemo\obj\Debug\DeconstructionDemo.csproj.CoreCompileInputs.cache
+C:\Thanga\CSharp7FeaturesDemo\DeconstructionDemo\obj\Debug\DeconstructionDemo.exe
+C:\Thanga\CSharp7FeaturesDemo\DeconstructionDemo\obj\Debug\DeconstructionDemo.pdb

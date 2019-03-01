@@ -1,0 +1,6 @@
+C:\Thanga\CSharp7FeaturesDemo\BinaryLiteralAndDigitSeparatorDemo\bin\Debug\BinaryLiteralAndDigitSeparatorDemo.exe.config
+C:\Thanga\CSharp7FeaturesDemo\BinaryLiteralAndDigitSeparatorDemo\bin\Debug\BinaryLiteralAndDigitSeparatorDemo.exe
+C:\Thanga\CSharp7FeaturesDemo\BinaryLiteralAndDigitSeparatorDemo\bin\Debug\BinaryLiteralAndDigitSeparatorDemo.pdb
+C:\Thanga\CSharp7FeaturesDemo\BinaryLiteralAndDigitSeparatorDemo\obj\Debug\BinaryLiteralAndDigitSeparatorDemo.csproj.CoreCompileInputs.cache
+C:\Thanga\CSharp7FeaturesDemo\BinaryLiteralAndDigitSeparatorDemo\obj\Debug\BinaryLiteralAndDigitSeparatorDemo.exe
+C:\Thanga\CSharp7FeaturesDemo\BinaryLiteralAndDigitSeparatorDemo\obj\Debug\BinaryLiteralAndDigitSeparatorDemo.pdb

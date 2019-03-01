@@ -1,0 +1,6 @@
+C:\Thanga\CSharp7FeaturesDemo\RefLocalAndRefReturnDemo\bin\Debug\RefLocalAndRefReturnDemo.exe.config
+C:\Thanga\CSharp7FeaturesDemo\RefLocalAndRefReturnDemo\bin\Debug\RefLocalAndRefReturnDemo.exe
+C:\Thanga\CSharp7FeaturesDemo\RefLocalAndRefReturnDemo\bin\Debug\RefLocalAndRefReturnDemo.pdb
+C:\Thanga\CSharp7FeaturesDemo\RefLocalAndRefReturnDemo\obj\Debug\RefLocalAndRefReturnDemo.csproj.CoreCompileInputs.cache
+C:\Thanga\CSharp7FeaturesDemo\RefLocalAndRefReturnDemo\obj\Debug\RefLocalAndRefReturnDemo.exe
+C:\Thanga\CSharp7FeaturesDemo\RefLocalAndRefReturnDemo\obj\Debug\RefLocalAndRefReturnDemo.pdb

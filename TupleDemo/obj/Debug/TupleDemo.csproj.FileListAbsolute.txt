@@ -1,0 +1,6 @@
+C:\Thanga\CSharp7FeaturesDemo\TupleDemo\obj\Debug\TupleDemo.csproj.CoreCompileInputs.cache
+C:\Thanga\CSharp7FeaturesDemo\TupleDemo\bin\Debug\TupleDemo.exe.config
+C:\Thanga\CSharp7FeaturesDemo\TupleDemo\bin\Debug\TupleDemo.exe
+C:\Thanga\CSharp7FeaturesDemo\TupleDemo\bin\Debug\TupleDemo.pdb
+C:\Thanga\CSharp7FeaturesDemo\TupleDemo\obj\Debug\TupleDemo.exe
+C:\Thanga\CSharp7FeaturesDemo\TupleDemo\obj\Debug\TupleDemo.pdb

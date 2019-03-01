@@ -1,0 +1,6 @@
+C:\Thanga\CSharp7FeaturesDemo\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.csproj.CoreCompileInputs.cache
+C:\Thanga\CSharp7FeaturesDemo\PatternMatchingDemo\bin\Debug\PatternMatchingDemo.exe.config
+C:\Thanga\CSharp7FeaturesDemo\PatternMatchingDemo\bin\Debug\PatternMatchingDemo.exe
+C:\Thanga\CSharp7FeaturesDemo\PatternMatchingDemo\bin\Debug\PatternMatchingDemo.pdb
+C:\Thanga\CSharp7FeaturesDemo\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.exe
+C:\Thanga\CSharp7FeaturesDemo\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.pdb

@@ -1,0 +1,6 @@
+C:\Thanga\CSharp7FeaturesDemo\OutParameterDemo\obj\Debug\OutParameterDemo.csproj.CoreCompileInputs.cache
+C:\Thanga\CSharp7FeaturesDemo\OutParameterDemo\bin\Debug\OutParameterDemo.exe.config
+C:\Thanga\CSharp7FeaturesDemo\OutParameterDemo\bin\Debug\OutParameterDemo.exe
+C:\Thanga\CSharp7FeaturesDemo\OutParameterDemo\bin\Debug\OutParameterDemo.pdb
+C:\Thanga\CSharp7FeaturesDemo\OutParameterDemo\obj\Debug\OutParameterDemo.exe
+C:\Thanga\CSharp7FeaturesDemo\OutParameterDemo\obj\Debug\OutParameterDemo.pdb
